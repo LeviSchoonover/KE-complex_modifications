@@ -1042,6 +1042,9 @@
           "path": "json/f2_cut_f3_copy_f4_paste.json"
         },
         {
+          "path": "json/f3_f4_f5_to_screenshot.json"
+        },
+        {
           "path": "json/fn-copy-paste.json"
         },
         {
